@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+#match, #dopey, #grumpy, #bashful {
+  display: none;
+}
+
+img {
+  width: 30%;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 40px;
+  color: purple;
+}
+
+#match {
+  padding-top: 30px;
+}

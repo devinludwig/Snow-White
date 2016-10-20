@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+#match, #hugh, #rupert, #sofia, #emily {
+  display: none;
+}
+
+img {
+  width: 30%;
+}
